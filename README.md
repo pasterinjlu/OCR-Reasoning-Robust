@@ -1,8 +1,12 @@
+
 # OCR Reasoning Robustness Benchmark
 
 This repository contains evaluation code and aggregate results for benchmarking vision-language models on OCR reasoning tasks under visual perturbations.
 
 The benchmark evaluates whether models can answer text-centric visual questions when the input image is degraded by common perturbations such as pixelation, blur, chromatic shift, elastic distortion, motion blur, and snow.
+
+
+The benchmark data can be downloaded from Baidu Netdisk: [Baidu Netdisk Download Link](https://pan.baidu.com/s/1XoXxHioo55X0mOjCpO2baA?pwd=u2hu)
 
 ## Repository Structure
 
