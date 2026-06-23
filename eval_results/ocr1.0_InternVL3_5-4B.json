@@ -1,0 +1,97 @@
+{
+  "baseline": {
+    "correct": 253,
+    "total": 482,
+    "accuracy": 52.4896265560166
+  },
+  "pixelate_1.5": {
+    "correct": 253,
+    "total": 482,
+    "accuracy": 52.4896265560166
+  },
+  "pixelate_2": {
+    "correct": 238,
+    "total": 482,
+    "accuracy": 49.37759336099585
+  },
+  "pixelate_2.5": {
+    "correct": 237,
+    "total": 482,
+    "accuracy": 49.1701244813278
+  },
+  "glass_blur_2": {
+    "correct": 258,
+    "total": 482,
+    "accuracy": 53.52697095435685
+  },
+  "glass_blur_2.5": {
+    "correct": 259,
+    "total": 481,
+    "accuracy": 53.84615384615385
+  },
+  "glass_blur_3": {
+    "correct": 248,
+    "total": 481,
+    "accuracy": 51.559251559251564
+  },
+  "color_shift_3": {
+    "correct": 234,
+    "total": 482,
+    "accuracy": 48.54771784232365
+  },
+  "color_shift_4": {
+    "correct": 211,
+    "total": 482,
+    "accuracy": 43.77593360995851
+  },
+  "color_shift_5": {
+    "correct": 209,
+    "total": 482,
+    "accuracy": 43.36099585062241
+  },
+  "elastic_10": {
+    "correct": 258,
+    "total": 482,
+    "accuracy": 53.52697095435685
+  },
+  "elastic_15": {
+    "correct": 257,
+    "total": 482,
+    "accuracy": 53.3195020746888
+  },
+  "elastic_20": {
+    "correct": 249,
+    "total": 481,
+    "accuracy": 51.767151767151766
+  },
+  "motion_blur_5": {
+    "correct": 244,
+    "total": 479,
+    "accuracy": 50.939457202505224
+  },
+  "motion_blur_6": {
+    "correct": 244,
+    "total": 482,
+    "accuracy": 50.62240663900415
+  },
+  "motion_blur_7": {
+    "correct": 233,
+    "total": 481,
+    "accuracy": 48.44074844074844
+  },
+  "snow_0.1": {
+    "correct": 235,
+    "total": 482,
+    "accuracy": 48.7551867219917
+  },
+  "snow_0.2": {
+    "correct": 205,
+    "total": 482,
+    "accuracy": 42.531120331950206
+  },
+  "snow_0.3": {
+    "correct": 201,
+    "total": 481,
+    "accuracy": 41.78794178794179
+  }
+}

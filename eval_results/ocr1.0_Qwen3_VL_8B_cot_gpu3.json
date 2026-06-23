@@ -1,0 +1,97 @@
+{
+  "baseline": {
+    "accuracy": 81.66666666666667,
+    "correct": 98,
+    "total": 120
+  },
+  "pixelate_1.5": {
+    "accuracy": 83.33333333333334,
+    "correct": 100,
+    "total": 120
+  },
+  "pixelate_2": {
+    "accuracy": 75.0,
+    "correct": 90,
+    "total": 120
+  },
+  "pixelate_2.5": {
+    "accuracy": 76.66666666666667,
+    "correct": 92,
+    "total": 120
+  },
+  "glass_blur_2": {
+    "accuracy": 76.66666666666667,
+    "correct": 92,
+    "total": 120
+  },
+  "glass_blur_2.5": {
+    "accuracy": 84.87394957983193,
+    "correct": 101,
+    "total": 119
+  },
+  "glass_blur_3": {
+    "accuracy": 78.33333333333333,
+    "correct": 94,
+    "total": 120
+  },
+  "color_shift_3": {
+    "accuracy": 76.66666666666667,
+    "correct": 92,
+    "total": 120
+  },
+  "color_shift_4": {
+    "accuracy": 73.33333333333333,
+    "correct": 88,
+    "total": 120
+  },
+  "color_shift_5": {
+    "accuracy": 70.83333333333334,
+    "correct": 85,
+    "total": 120
+  },
+  "elastic_10": {
+    "accuracy": 78.33333333333333,
+    "correct": 94,
+    "total": 120
+  },
+  "elastic_15": {
+    "accuracy": 80.0,
+    "correct": 96,
+    "total": 120
+  },
+  "elastic_20": {
+    "accuracy": 76.66666666666667,
+    "correct": 92,
+    "total": 120
+  },
+  "motion_blur_5": {
+    "accuracy": 79.16666666666666,
+    "correct": 95,
+    "total": 120
+  },
+  "motion_blur_6": {
+    "accuracy": 75.0,
+    "correct": 90,
+    "total": 120
+  },
+  "motion_blur_7": {
+    "accuracy": 74.16666666666667,
+    "correct": 89,
+    "total": 120
+  },
+  "snow_0.1": {
+    "accuracy": 75.0,
+    "correct": 90,
+    "total": 120
+  },
+  "snow_0.2": {
+    "accuracy": 74.16666666666667,
+    "correct": 89,
+    "total": 120
+  },
+  "snow_0.3": {
+    "accuracy": 69.16666666666667,
+    "correct": 83,
+    "total": 120
+  }
+}

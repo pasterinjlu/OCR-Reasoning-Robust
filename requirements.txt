@@ -1,0 +1,8 @@
+openai>=1.0.0
+tqdm
+Pillow
+numpy
+opencv-python
+scipy
+vllm>=0.4.0
+requests

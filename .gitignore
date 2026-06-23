@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Generated data and large artifacts
+final_data/perturbations/
+eval_results/*_details/
+eval_results/old/
+*.log
+
+# Optional raw datasets can be large or private.
+final_data/ocr1.0/images/
+final_data/ocr2.0/images/
+final_data/ocr1.0/dataset.json
+final_data/ocr2.0/dataset.json
