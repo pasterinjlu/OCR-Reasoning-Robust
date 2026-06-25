@@ -104,10 +104,7 @@ The default perturbation suite is:
 ```bash
 cd final_data
 python eval_api.py --dataset ocr1.0 --model gpt-4o
-python eval_api.py --dataset ocr2.0 --model gpt-4o --no-judge
 ```
-
-`--no-judge` disables LLM-as-judge scoring and uses only deterministic matching.
 
 ## Evaluate Local Models with vLLM
 
@@ -119,21 +116,6 @@ CUDA_VISIBLE_DEVICES=0 python eval_vllm.py \
   --model-name Qwen3-VL-8B
 ```
 
-For multi-GPU sharding:
-
-```bash
-bash run_3gpu.sh ocr1.0
-python merge_results.py --dataset ocr1.0 --model Qwen3_VL_8B --num-gpus 3
-```
-
-## Image-Free Baseline
-
-```bash
-cd final_data
-python eval_no_image.py --dataset all --model gpt-4o
-```
-
-This control measures whether models can answer from question text alone.
 
 ## Results
 
